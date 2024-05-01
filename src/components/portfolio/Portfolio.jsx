@@ -6,25 +6,25 @@ const items = [
   {
     id: 1,
     title: "Unified Healthcare Interface",
-    img: "../public/doctor.jpg",
+    img: "doctor.jpg",
     desc: "The development of a Unified Healthcare Interface, showcasing expertise in integrating advanced technologies like BERT-based medical dialogue summarization, blockchain for data security, and decentralized storage using IPFS. Introduced a novel approach to enhance medical information quality, contributing to improved patient outcomes and system efficiency.",
   },
   {
     id: 2,
     title: "Hugo Blog-Site",
-    img: "../public/blog.avif",
+    img: "blog.avif",
     desc: "Designed a visually captivating and customized website using HTML, CSS, and JavaScript, aligning seamlessly with web guidelines and executed responsive design techniques to ensure optimal user experience across all devices.",
   },
   {
     id: 3,
     title: "Mars data scraping",
-    img: "../public/mars.jpg",
+    img: "/mars.jpg",
     desc: "Leveraged Python programming skills to design and implement a web scraping solution using Splinter and Beautiful Soup, resulting in the extraction of data from 10 Mars-related websites. Implemented data cleaning techniques on the scraped Mars data using Pandas library, resulting in a streamlined dataset ready for analysis and visualization.",
   },
   {
     id: 4,
     title: "Publication",
-    img: "../public/publication.jpg",
+    img: "/publication.jpg",
     desc: "Emerging Research in Computing, Information, Communication, AI and ML Secured the acceptance of the paper titled ”Unified Healthcare Interface” (Paper ID: 62) at ERCICAM 2024 hosted at NMIT Bengaluru and the 2nd ICIITCEE 2024.",
   },
 ];
